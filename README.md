@@ -7,3 +7,4 @@ Workflow -
  - Applying ANN model and optimizing the parameters to get best results
  
  Note - While importing dataset please download the given dataset and enter its location to read the .csv file
+#### Accuracy of my model varies from 95-97 %
